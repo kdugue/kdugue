@@ -7,5 +7,5 @@
 
 - Currently working as a software engineer
 - Interests: short fiction, tennis, lo-fi house
-- Personal website <a href="https://www.kemetdugue.com">Kemet Dugue</a>
+- Personal website <a href="http://www.kemetdugue.com">Kemet Dugue</a>
 
