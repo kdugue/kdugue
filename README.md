@@ -8,7 +8,7 @@
 - Currently working as a software engineer
 - Interests: short fiction, tennis, lo-fi house, cats
 
-### ~ Link to Get to Know Me ~
+### ~ Get to Know Me ~
 - Personal website: <a href="http://www.kemetdugue.com">Kemet Dugue</a>
 - Goodreads: https://www.goodreads.com/user/show/3368054-kemet
 - Spotify Profile: https://open.spotify.com/user/kemetdugue?si=AubtpEIHQoSlYHxbX9s-RQ
