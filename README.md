@@ -1,3 +1,5 @@
+<img alt="Gif of sunset" src="https://media.giphy.com/media/3oGRFs7yHPDlB8JYsg/giphy.gif" width="1000" height="400"/>
+
 ### Hi, I'm Kemet!
 
 <!--
@@ -13,6 +15,7 @@
 - Goodreads: https://www.goodreads.com/user/show/3368054-kemet
 - Spotify Profile: https://open.spotify.com/user/kemetdugue?si=AubtpEIHQoSlYHxbX9s-RQ
   - I'd love to know what tunes you've been jamming to - feel free to contribute to the <a href="https://open.spotify.com/playlist/5cPHoTqPdpVQMCGdeG06as?si=cQjDIgh4SnGhJI9l9f2hOg"> ~ tunes ~ </a> collaborative playlist !! 
+
     
 
 
