@@ -1,11 +1,4 @@
-<img alt="Gif of sunset" src="https://media.giphy.com/media/3oGRFs7yHPDlB8JYsg/giphy.gif" width="1000" height="400"/>
-
 ### Hi, I'm Kemet!
-
-<!--
-**kdugue/kdugue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-!-->
-
 
 - Currently working as a software engineer
 - Interests: short fiction, tennis, lo-fi house, cats
