@@ -1,6 +1,6 @@
 ### Hi, I'm Kemet!
 
-- Currently working as a software engineer
+- Software engineer at Microsoft
 - Interests: short fiction, tennis, lo-fi house, cats
 
 ### ~ Get to Know Me ~
