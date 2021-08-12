@@ -1,6 +1,6 @@
 ### Hi, I'm Kemet!
 
-- Software engineer at Microsoft
+- Software engineer at Microsoft (Corporate Github Account: https://www.github.com/kdugue-msft)
 - Interests: short fiction, tennis, lo-fi house, cats
 
 ### ~ Get to Know Me ~
