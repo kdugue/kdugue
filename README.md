@@ -1,6 +1,6 @@
 ### Hi, I'm Kemet!
 
-- Software engineer at Microsoft (Corporate Github Account: https://www.github.com/kdugue-msft)
+- Software engineer at Uber (Corporate Github Account: https://www.github.com/kdugue-dugue). Previous: Microsoft (Corporate Github Account: https://www.github.com/kdugue-msft), and Selfmade
 - Interests: short fiction, tennis, lo-fi house, cats
 
 ### ~ Get to Know Me ~
